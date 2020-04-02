@@ -1,2 +1,4 @@
-# Ola-Mundo
+# Olá, Mundo!
 Primeiro repositório de Git e Git-Hub
+
+ISSO AQUI FOI FEITA QUANDO EU USEI O GIT PELA PRIMEIRA VEZ  
